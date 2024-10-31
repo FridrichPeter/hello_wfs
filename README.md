@@ -18,7 +18,7 @@ This project provides a methodology for classifying Enhanced Vegetation Index (E
 - **ArcPy**: Python library for geoprocessing tasks.
 - **ArcPy Spatial Analyst (`arcpy.sa`)**: Used for `Reclassify` and `CellStatistics` functions to handle raster classification and aggregation.
 
-## Output
+## Output (WFS_arcpy)
 
 - **Classified Rasters**: Intermediate rasters for each input, classified into five classes.
 - **Final Reclassified Mean Raster**: `EVI_Classified_Mean_Reclassified.tif`, providing an average vegetation vitality view.
