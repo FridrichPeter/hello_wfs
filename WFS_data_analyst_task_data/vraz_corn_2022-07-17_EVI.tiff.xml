@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="sk"><Esri><CreaDate>20241030</CreaDate><CreaTime>10113800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CalculateStatistics" Date="20241030" Time="101138">CalculateStatistics C:\Users\pfrid\PycharmProjects\arcpy\HRANIE_SA\WFS\WFS_data_analyst_task_data\vraz_corn_2022-07-17_EVI.tiff 1 1 -998 OVERWRITE "Feature Set"</Process></lineage></DataProperties></Esri></metadata>
