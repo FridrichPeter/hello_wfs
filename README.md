@@ -4,7 +4,7 @@ This project provides a methodology for classifying Enhanced Vegetation Index (E
 
 ## Methodology
 
-1. **Initial Data Analysis**: Each raster's `min`, `max`, `mean`, and `std` values are extracted using `gdalinfo`. This analysis helps to understand data distribution and is crucial for defining the remap ranges for classification.
+1. **Initial Data Analysis**: Each raster's (from WFS_data_analyst_task_data) `min`, `max`, `mean`, and `std` values are extracted using `gdalinfo`. This analysis helps to understand data distribution and is crucial for defining the remap ranges for classification.
    
 2. **Classification of EVI Rasters**: Each raster is classified into five classes based on predefined EVI value ranges, informed by the data analysis step. Classes represent vegetation vitality, with `NoData` values set to -998.
 
